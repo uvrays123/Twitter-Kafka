@@ -115,8 +115,8 @@ public class ElasticSearchConsumer {
     public static RestHighLevelClient createClient() {
 
         String hostname = "kafka-twitter-1907341909.us-east-1.bonsaisearch.net";
-        String username = "8gjc4sjfgq";
-        String password = "qk25243za1";
+        String username = "Hidden"; //Hidden my credentials
+        String password = "Hidden"; //Hidden my credentials
 
         //Since we don't run a local ElasticSearch so the below code is to connect to Bonsai ElasticSearch
         final CredentialsProvider credentialsProvider = new BasicCredentialsProvider();

@@ -21,10 +21,10 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.TimeUnit;
 
 public class TwitterProducer {
-    String consumerKey = "U5jJQEugSyMAnTslYI8QOTEJd";
-    String consumerSecret = "iRl6eOhXovZwIYj1I0u7bKQM9S4OagFVadSA7CGRtvlyc8Ahot";
-    String token = "1221300328785641472-Ii9Iix17OtzcJ42MJss91oQ1add99B";
-    String secret = "hLhU9smVdtXW4HG2j6vDBI4AR4am2EQ0Q5SNXHeduAXuD";
+    String consumerKey = "Hidden"; //I have hidden my Twitter API Credentials
+    String consumerSecret = "Hidden";
+    String token = "Hidden";
+    String secret = "Hidden";
     Logger logger = LoggerFactory.getLogger( TwitterProducer.class.getName());
     List<String> terms = Lists.newArrayList("olympics", "usa", "bitcoin", "china", "cricket", "mobile");
 
