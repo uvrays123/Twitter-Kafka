@@ -89,15 +89,17 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/uvrays123/Twitter-Kafka
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+2. Replace the access Id's for the Twitter API with your personal keys
 
+3. Replace the keys for Elasticsearch with your personal Elasticsearch account keys
 
+4. Start Zookeeper on your local terminal
 
+5. Start Apache Kakfa on your local terminal 
+
+6. Run the TwitterProducer.java program 
 
 <!-- CONTACT -->
 ## Contact
