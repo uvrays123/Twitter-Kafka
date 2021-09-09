@@ -52,7 +52,6 @@
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -106,15 +105,6 @@ To get a local copy up and running follow these simple steps.
 Chris Serrao - https://www.linkedin.com/in/chris-serrao-64360a199/ - cserrao@umass.edu
 
 Project Link: [https://github.com/uvrays123/Twitter-Kafka](https://github.com/uvrays123/Twitter-Kafka)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
 
 
